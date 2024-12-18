@@ -1,10 +1,10 @@
 # Challenge Conversor moneda
 Esta es mi solucion al reto propuesto por alura en el curso de:
-###Practicando con Java: Challenge Conversor de Monedas
+### Practicando con Java: Challenge Conversor de Monedas
 
--Usa la libreria json-2.10.1.jar y java 23.
+- Usa la libreria json-2.10.1.jar y java 23.
 
-##Convierte las monedas de:
+## Convierte las monedas de:
      dolares USD --> Soles Peruanos
   Soles Peruanos --> dolares USD
      dolares USD --> Pesos Argentinos
